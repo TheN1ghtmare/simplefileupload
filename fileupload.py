@@ -4,7 +4,7 @@ print("#############################################")
 print("Simple File Uploader -- Written by Nightmare")
 print("#############################################\n\n")
 
-file = raw_input("Path to file: ")
+filename = raw_input("Path to file: ")
 url = raw_input("Url to upload to: ")
 
 try:
