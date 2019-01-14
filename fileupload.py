@@ -1,4 +1,7 @@
 import requests
+import os
+
+os.system("clear")
 
 print("#############################################")
 print("Simple File Uploader -- Written by Nightmare")
